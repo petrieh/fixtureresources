@@ -1,0 +1,11 @@
+*.pyc
+*.swp
+dist/*
+src/fixtureresources.egg-info/*
+.cache/
+.coverage
+.tox/
+build_dir/
+coverage.xml
+junit.xml
+build/
