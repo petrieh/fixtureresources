@@ -3,6 +3,13 @@
 .. image:: https://travis-ci.org/nokia/fixtureresources.svg?branch=master
     :target: https://travis-ci.org/nokia/fixtureresources
 
+Documentation
+-------------
+
+Documentation for fixtureresouces can be found from `Read The Docs`_.
+
+.. _Read The Docs: http://fixtureresources.readthedocs.io/
+
 Pytest fixtures and helpers
 ---------------------------
 
@@ -19,4 +26,6 @@ Development practices
 ---------------------
 
 The development and the testing follows the Common Robot Libraries development
-practices defined in https://github.com/nokia/crl-devutils.
+practices defined in crl-devutils_.
+
+.. _crl-devutils: http://crl-devutils.readthedocs.io/.
